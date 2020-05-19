@@ -1,0 +1,39 @@
+
+.btn-primary {
+  color: #fff;
+  background-color: darkslategrey;
+  margin-left: 42px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    background-color: aliceblue;
+    font-family: serif;
+}
+h1{
+  -webkit-text-emphasis-style: triangle;
+  text-align: center;
+  margin-top: 40px;
+  color: cadetblue;
+  text-decoration: underline;
+  text-decoration: overline;
+}
+.table .thead-dark th {
+  color: #fff;
+  background-color: darkcyan;
+  border-color: #454d55;
+}
+input,select,button{
+  width: 20%;
+  background-color: aliceblue;
+  border: thin;
+
+}
+
+td{
+  text-align: center;
+    color: inherit;
+    font-family: sans-serif;
+}
